@@ -60,6 +60,6 @@ p.interactive()
 ```
 
 ## Setup
-```bash
+```shell
 scp -P2222 fd@pwnable.kr:* ./fd # Download the files from the server
 ```

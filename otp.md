@@ -101,6 +101,6 @@ Python 2.7.12 (default, Mar  1 2021, 11:38:31)
 and we get the flag!
 
 ## Setup
-```bash
+```shell
 ssh otp@pwnable.kr -p2222 (pw:guest)
 ```

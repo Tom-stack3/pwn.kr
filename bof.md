@@ -80,3 +80,9 @@ $ python3 exp.py
 $ cat flag
 [ .......... ]
 ```
+
+## Setup
+```shell
+$ wget http://pwnable.kr/bin/bof http://pwnable.kr/bin/bof.c
+$ chmod +x bof
+```

@@ -69,5 +69,5 @@ p.interactive()
 
 ## Setup
 ```shell
-scp -P2222 col@pwnable.kr:* ./collision # Download the files from the server
+mkdir collision && scp -P2222 col@pwnable.kr:* ./collision # Download the files from the server
 ```

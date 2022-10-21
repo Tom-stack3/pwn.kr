@@ -9,6 +9,7 @@ Writeups for pwnable.kr challenges.
 - [passcode](passcode.md)
 - [shellshock](shellshock.md)
 - [unlink](unlink.md)
+- [blukat](blukat.md)
 
 ### [Rookiss]
 - [otp](otp.md)

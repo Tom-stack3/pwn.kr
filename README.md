@@ -1,5 +1,14 @@
-# pwnable.kr
-Writeups for pwnable.kr challenges.
+# pwnable.kr and more
+Writeups for pwnable.kr challenges and some fun challenges I've written for beginners.
+
+### [Buffy's Nightmare]
+A short series of challenges for beginners. The challenges are written in C and are designed to be solved using basic techniques. Note that the challenges are meant to be solved in order.
+
+There are explanations for each challenge, and I've tried to make them as beginner-friendly as possible :upside_down_face:
+
+There's source code for each challenge, a `make` file to compile, and a solution.
+
+If you're new to binary exploitation, this might be a good place to start. If you're not, try the fourth challenge for some fun. Have fun!
 
 ### [Toddler's Bottle]
 - [fd](fd.md)

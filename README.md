@@ -10,6 +10,11 @@ There's source code for each challenge, a `make` file to compile, and a solution
 
 If you're new to binary exploitation, this might be a good place to start. If you're not, try the fourth challenge for some fun. Have fun!
 
+- [Level 1](Buffy%27s%20Nightmare/l1)
+- [Level 2](Buffy%27s%20Nightmare/l2)
+- [Level 3](Buffy%27s%20Nightmare/l3)
+- [Level 4](Buffy%27s%20Nightmare/l4)
+
 ### [Toddler's Bottle]
 - [fd](fd.md)
 - [collision](collision.md)

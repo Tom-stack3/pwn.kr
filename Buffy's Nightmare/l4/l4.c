@@ -34,4 +34,5 @@ int main() {
     else {
         printf("You lost!\n");
     }
+    exit(0);
 }
